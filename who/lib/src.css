@@ -1,0 +1,10 @@
+/*
+ The MIT License (MIT)
+ Copyright (c) 2022 Emeer Adhamian (github.com/kode-trek)
+ https://github.com/kode-trek/who/blob/main/LICENSE
+ https://github.com/kode-trek/archive/blob/main/LICENSE
+*/
+
+table tr:nth-child(even) {background-color: #eee;}
+table tr:nth-child(odd) {background-color: #fff;}
+table tr:hover {background-color: #ddd;}
